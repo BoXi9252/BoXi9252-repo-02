@@ -1,7 +1,7 @@
 # Tutorial: steps of creating the project files
 1. Create a folder ,named'assigment-3' in my assignment folder for my project;
 2. Create a subfolder called 'assets';
-3. Create a html file called 'login.html';
+3. Create a html file called 'index.html';
 4. In 'assets' folder, create 2 subfolders named 'style' and 'script';
 5. In 'style' folder, create a css file with name 'login.css';
 6. In 'script' folder, create a js file with name 'js.js'.
@@ -142,5 +142,5 @@ document.addEventListener('DOMContentLoaded', function () {
     * Commit these changes and push them to the remote GitHub repo:git push origin main;
 # References and my demo link:
 Click [here](https://github.com/BoXi9252/BoXi9252-repo-02) to check code of my project.<br>
-Click [My animation demo](http://127.0.0.1:5500/assignment/assignment-3/LOG%20IN.html)to test the application.<br>
+Click [My animation demo](https://boxi9252.github.io/BoXi9252-repo-02/)to test the application.<br>
 [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
