@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function () {
         document.querySelector('.container').classList.add('success');
     });
 });
-
+```
 # Instructions of pushing my project to Github:
 
 1. Create a new repository on GitHub,named ‘BoXi9252-repo-02’;
