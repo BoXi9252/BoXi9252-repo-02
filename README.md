@@ -1,4 +1,13 @@
-# Project--Background Animations for Login page:
+# Tutorial:
+1. Create a folder ,named'assigment-3' in my assignment folder for my project;
+2. Create a subfolder called 'assets';
+3. Create a html file called 'login.html';
+4. In 'assets' folder, create 2 subfolders named 'style' and 'script';
+5. In 'style' folder, create a css file with name 'login.css';
+6. In 'script' folder, create a js file with name 'js.js'.
+
+# My Project--Background Animations for Login page:
+
 My project is a simple login page, it contains an account name input form, a password input form ,and a login button.
 The CSS defines a background square animation using the @keyframes square rule. This animation moves the background square from the bottom to the top and rotates it when it reaches the top. Therefore, we will see the background square animation when the page loads.
 ```css
