@@ -1,8 +1,8 @@
 # Project--Background Animations for Login page:
 My project is a simple login page, it contains an account name input form, a password input form ,and a login button.
 The CSS defines a background square animation using the @keyframes square rule. This animation moves the background square from the bottom to the top and rotates it when it reaches the top. Therefore, we will see the background square animation when the page loads.
-```
-
+```css
+/* CSS code examples */
 .bg-squares li {
     width: 40px;
     height: 40px;
