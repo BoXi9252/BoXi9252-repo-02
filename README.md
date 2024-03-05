@@ -104,6 +104,23 @@ animation duration,and background color for each square */
     }
 }
 ```
+There is another aimation in my project: click the login button ,the text'welcome' and the input form will be hidden ,and the text"login successfully!" will show.
+```javascript
+// JavaScript code example
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('.form');
+    const h1 = document.querySelector('h1');
+    const btn_login = document.querySelector('.btn-login');
+
+    btn_login.addEventListener('click', function () {
+        //  hide the form
+        form.style.display = 'none';
+        // show login successful
+        h1.textContent = 'Login Successful!';
+        // success class name
+        document.querySelector('.container').classList.add('success');
+    });
+});
 
 # Instructions of pushing my project to Github:
 
